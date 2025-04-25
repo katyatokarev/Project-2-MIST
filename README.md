@@ -3,7 +3,7 @@
 
 ## 🧠 Team Name and Members
 
-**Team Name:** Sp25_21482_Group2 
+**Team Name:** Sp25_21482_Group2
           
      
 **Team Members:**  
