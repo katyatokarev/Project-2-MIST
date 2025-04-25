@@ -77,7 +77,7 @@ Exploring the association between baby names and ethnic groups can shed light on
 -Asian and Pacific Islander and Black Non-Hispanic groups are present but have smaller representation overall.
 -Name popularity declines steadily from left to right, with the top 10 names significantly more common than those further down the chart.
 -From the years 2015-2021, the most common name was ‘Liam’ and again, it was most popularly used by people who identified as Hispanic.
--Names such as esmeralda with origins from spanish and/or latin are more common in hispanic population → possible explanation could be to preserve culture 
+-Names such as Esmeralda with origins from Spanish and/or Latin are more common in Hispanic population → possible explanation could be to preserve culture 
 
 ![image](https://github.com/user-attachments/assets/0495e59c-2225-47f8-8364-6b3deb01abac)
 
@@ -90,7 +90,7 @@ Exploring the association between baby names and ethnic groups can shed light on
 This analytical question explores whether external cultural influences, such as major news events, popular media, or celebrity prominence, have a measurable impact on the frequency of specific baby names over time. By analyzing trends in baby name popularity and comparing them to timelines of significant events (e.g., a celebrity becoming widely known, a movie release, a political figure rising in prominence), the analysis seeks to uncover patterns of cause-and-effect or influence in naming behavior.
 
 **Observation**
--Zendaya (name) was super popular in 2013-2014 → KC Undercover, Zapped, Shake It Up, Red Carpets
+-Zendaya (name) was super popular in 2013-2014 → KC Undercover, Zapped, Shake It Up, Red Carpets were popular TV shows at the time.
 -Zuri (name) grew in popularity from 2011-2015 then decreased in 2016 went back up from 2017-2018 then decreased in 2019 then dramatically increased in 2020 
 -Alessandro popular every 2 years it seems for 2 years 2015-2016 then none in 2017 then again in 2018-2019 and none in 2020 then back in 2021
 -Ethan was overall the most popular baby name, with 22,149 babies. This was most used by people of Hispanic Ethnicity. 
