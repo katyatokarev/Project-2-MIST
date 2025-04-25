@@ -121,7 +121,7 @@ These examples highlight how major cultural moments can directly impact naming t
 **Conclusion**
 Our analysis of New York City baby names (2011–2021) reveals strong correlations between name popularity and both ethnic background and cultural events.
 Names like Luna, Sofia, and Ethan highlight how heritage and cultural preservation influence naming within different communities.
-Trends also reflect media and celebrity impact, with names such as Zendaya and Zuri showing rises in popularity during periods of major pop culture presence.
+Trends also reflect media and celebrity impact, with names such as Zendaya and Zuri displaying rises in popularity during periods of major pop culture presence.
 These insights can inform future research in sociology, marketing, and cultural studies, as names serve as a reflection of both identity and societal trends
 
 ---
